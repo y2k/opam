@@ -25,5 +25,5 @@ Implements most basic functionality present in the API, plus
 convenience modules for error handling and defining commands."""
 url {
   src: "https://github.com/y2k/TelegraML/archive/v3.0.0.tar.gz"
-  checksum: "md5=c26aab2141deb7af7f7fae68249806ba"
+  checksum: "md5=b698346b3f834d98e4a4f65544e665e2"
 }
